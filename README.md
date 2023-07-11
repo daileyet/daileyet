@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daileyet
 - 👀 I’m interested in Java, C++, Qt
-- 🌱 I’m currently learning V2X, Android HAL
-- 💞️ I’m looking to collaborate on V2X
+- 🌱 I’m currently learning V2X, Android HAL, SOME-IP
+- 💞️ I’m looking to collaborate on V2X, SOME-IP
 - 📫 How to reach me dailey.dai@openthinks.com
 
 <!---
